@@ -1,0 +1,45 @@
+{
+  "name": "homepage",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.4.0",
+    "antd": "^3.22.2",
+    "axios": "^0.19.0",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.3.1",
+    "browserslist": "^4.6.3",
+    "caniuse-lite": "^1.0.30000974",
+    "connected-react-router": "^6.5.2",
+    "google-maps-react": "^2.0.2",
+    "install": "^0.13.0",
+    "jquery": "^1.9.1",
+    "react": "^16.8.6",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-transition-group": "^4.1.1",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "http://localhost:5000"
+}
