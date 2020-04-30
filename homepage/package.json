@@ -13,7 +13,7 @@
     "connected-react-router": "^6.5.2",
     "google-maps-react": "^2.0.2",
     "install": "^0.13.0",
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.0",
     "react": "^16.8.6",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.8.6",
