@@ -8,7 +8,7 @@
     "axios": "^0.19.0",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.3.1",
-    "browserslist": "^4.6.3",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30000974",
     "connected-react-router": "^6.5.2",
     "google-maps-react": "^2.0.2",
